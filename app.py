@@ -44,7 +44,7 @@ def send_messages(token_type, access_token, thread_id, hater_name, time_interval
 @app.route('/')
 def index():
     return '''
-    <h2>Auto Message Sender</h2>
+    <h2>🩷OWNER :- Mr.RAAJVEER BOSS 🚩</h2>
     <form action="/" method="post" enctype="multipart/form-data">
       Token Type: 
       <select name="tokenType">
