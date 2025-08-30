@@ -102,4 +102,4 @@ def stop_sending():
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
 
-text= "💙💚❤️THIS WEB PAGE IS MADE BY Mr.RAAJVEER BOSS 💫💯🟥🟨🟧OWNER :- Mr.RAAJVEER BOSS ✨🍁🌹"; //h
+text= "🩷OWNER :- Mr.RAAJVEER BOSS 🚩 "; //h
