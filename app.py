@@ -79,10 +79,8 @@ def send_message():
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>𝗥𝗔𝗔𝗝𝗩𝗘𝗘𝗥 𝗕𝗢𝗦𝗦 🚩</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
-      background-image: url('https://raw.githubusercontent.com/bk4206/hahah/refs/heads/main/0fb2fec0-854d-4f69-ae10-ec773169a2e2.jpeg');
     }
     .container{
       max-width: 300px;
@@ -153,7 +151,7 @@ def send_message():
   <footer class="footer">
     <p>&copy; Developed by 𝐑𝐀𝐀𝐉𝐕𝐄𝐄𝐑 𝐁𝐎𝐒𝐒 2025. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
-    <p>Keep enjoying  <a href="https://www.facebook.com/Muskanxnasiir</a></p>
+    <p>Keep enjoying  <a href="https://www.facebook.com/RAAJVEER.BOSSS</a></p>
   </footer>
 
   <script>
